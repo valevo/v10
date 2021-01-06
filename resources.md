@@ -26,7 +26,7 @@ Original, naive implementation inherently minimises a Kullback-Leibler (or Jense
 
 
 
-## Misc. and Less Relevant Stuff
+# Misc. and Less Relevant Stuff
 
 
  - [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks](https://arxiv.org/pdf/1908.10084.pdf): Paper which discusses the problem with how BERT (and related models) is used to obtain embeddings for sentences (from words), the common methods being using the `[CLS}` token or averaging the word embeddings. Paper argues that BERT needs to be tuned in order to provide useful sentence embeddings. The proposed approach explicitly trains BERT to output useful cosine similarities for pairs of sentences (e.g. to reflect polarity or entailment between them).
