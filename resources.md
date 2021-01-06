@@ -2,7 +2,7 @@
 
 ## General Transformer Stuff
 
-### (Peter Bloem's Blog Post on Transformers](http://peterbloem.nl/blog/transformers)
+### [Peter Bloem's Blog Post on Transformers](http://peterbloem.nl/blog/transformers)
 
 ### [The Annotated Transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html)
 
