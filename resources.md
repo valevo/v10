@@ -10,8 +10,8 @@
 ## Transformers for Music
 
 ### [Magenta's Music Transformer](https://magenta.tensorflow.org/music-transformer)
-    -> corresponding [paper](https://arxiv.org/pdf/1809.04281v3.pdf) 
-    -> corresponding [PapersWithCode site](https://paperswithcode.com/paper/music-transformer)
+   -> corresponding [paper](https://arxiv.org/pdf/1809.04281v3.pdf) <br>
+   -> corresponding [PapersWithCode site](https://paperswithcode.com/paper/music-transformer)
 
 
 
