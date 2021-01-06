@@ -16,6 +16,8 @@
 
 
 
+## Training Methods
+
 ### [Post on the Wasserstein GAN Algorithm (WGAN)](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 Original, naive implementation inherently minimises a Kullback-Leibler (or Jensen-Shannon) divergence. The Wasserstein exchanges that for the Wasserstein
 (a.k.a. Earthmover) distance to address some problems such as mode collapse. Algorithm seems a simple enough to implement.
